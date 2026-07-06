@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0134-gas-station](https://github.com/tbhumang/LeetCode-Practice/tree/master/0134-gas-station) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/tbhumang/LeetCode-Practice/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
