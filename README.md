@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/tbhumang/LeetCode-Practice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
