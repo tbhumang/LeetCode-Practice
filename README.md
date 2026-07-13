@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview!!
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
