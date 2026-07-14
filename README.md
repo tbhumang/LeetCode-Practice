@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search Tree
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
