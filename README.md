@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
