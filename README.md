@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0137-single-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tbhumang/DSA-Arrays/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
