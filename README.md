@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0134-gas-station](https://github.com/tbhumang/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tbhumang/DSA-Arrays/tree/master/0135-candy) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
